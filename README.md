@@ -1,5 +1,6 @@
 # codedex-hotdogOrNot
 Project using HuggingFace database to detect whether an image uploaded contains a hot dog or not.
+
 [Tutorial Link](https://www.codedex.io/projects/detect-hotdog-with-hugging-face)
 
 ## How to use
